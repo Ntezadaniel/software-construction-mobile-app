@@ -17,6 +17,6 @@
 2. **Business logic**: Routing algorithm (Dijkstra/A*), traffic data fusion, ETA calculation, rerouting logic
 3. **Network / APIs**: GPS service, map tile server, traffic data stream, geocoding API, places API
 4. **Data storage**: Cached map tiles, route history, user preferences, offline map packages
-5. | **Street View** | 360° pan/zoom viewer | Image stitching, transition smoothing | Image Streaming API | Massive image database | High bandwidth required; buffers on slow networks. |
+5. **Street View**: 360° pan/zoom viewer + Image stitching, transition smoothing + Image Streaming API + Massive image database + High bandwidth required; buffers on slow networks. 
 
 

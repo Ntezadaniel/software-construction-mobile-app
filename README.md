@@ -51,3 +51,13 @@ Because the system must be maintainable, scalable, secure, and should perform ac
 3. **What did you learn about teamwork from this exercise?**
 Clear role division, regular sync-ups, and using GitHub for collaboration made our workflow efficient. Discussing different perspectives helped us understand the app more.
 
+
+## Group Contributions
+
+| Student Name | Role/Contribution |
+| :--- | :--- |
+| [Student 1 Name] | **Coordinator:** Managed schedule and finalized the README structure. |
+| [Student 2 Name] | **App Analyst:** Identified core features and user demographics. |
+| [Student 3 Name] | **Systems Thinker:** Analyzed the routing algorithms and API connections. |
+| [Student 4 Name] | **Risk Analyst:** Developed the "Low-end optimization" scenario. |
+| [Student 5 Name] | **Doc Lead:** Formatted the table and proofread the submission. |

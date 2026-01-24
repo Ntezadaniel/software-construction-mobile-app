@@ -32,6 +32,12 @@
 * **Offline Maps:** Storage limitations on low-end phones might restrict how large an area can be saved.
 
 ### 3. Difficulty Reasoning
-This is difficult because Google Maps relies heavily on vector graphics and real-time data processing. Stripping these down requires maintaining a separate "Lite" code base eg Google Maps Go.
+This is difficult because Google Maps relies heavily on vector graphics and real-time data processing. Stripping these down requires maintaining a separate "Lite" codebase, e.g., Google Maps Go.
 
+### Part D: Software Construction Challenges
+1. **Scalability of real-time data**: Handling millions of concurrent users requesting live traffic, routes, and map tiles.
+2. **Battery and performance optimization**: Continuous GPS and network usage drain battery; must optimize location polling and background tasks.
+3. **Cross-platform and device fragmentation**: Supporting different OS versions, screen sizes, and hardware capabilities across Android and iOS.
+4. **Data synchronization and offline support**: Ensuring offline maps stay updated and synced with the user’s saved places and routes.
+5. **Security and privacy**: Protecting user location history, securing API keys, and complying with global data regulations (GDPR, etc.).
 

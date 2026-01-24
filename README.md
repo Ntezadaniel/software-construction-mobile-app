@@ -13,9 +13,10 @@
 6. **Street View and satellite imagery**
 
 ### 3. Thinking Behind the Scenes
-**User Interface (UI)**: Map rendering, route overlay, voice guidance panel, buttons for start/stop navigation
-**Business logic**: Routing algorithm (Dijkstra/A*), traffic data fusion, ETA calculation, rerouting logic
-**Network / APIs**: GPS service, map tile server, traffic data stream, geocoding API, places API
-**Data storage**: Cached map tiles, route history, user preferences, offline map packages
+1. **User Interface (UI)**: Map rendering, route overlay, voice guidance panel, buttons for start/stop navigation
+2. **Business logic**: Routing algorithm (Dijkstra/A*), traffic data fusion, ETA calculation, rerouting logic
+3. **Network / APIs**: GPS service, map tile server, traffic data stream, geocoding API, places API
+4. **Data storage**: Cached map tiles, route history, user preferences, offline map packages
+5. | **Street View** | 360° pan/zoom viewer | Image stitching, transition smoothing | Image Streaming API | Massive image database | High bandwidth required; buffers on slow networks. |
 
 

@@ -41,3 +41,13 @@ This is difficult because Google Maps relies heavily on vector graphics and real
 4. **Data synchronization and offline support**: Ensuring offline maps stay updated and synced with the user’s saved places and routes.
 5. **Security and privacy**: Protecting user location history, securing API keys, and complying with global data regulations (GDPR, etc.).
 
+### Part E: Group Reflection
+1. **What surprised your group most about the complexity behind this app?**
+We were amazed by how many interconnected systems, including mapping, routing, traffic, search, and third-party integrations, must work together seamlessly in real time.
+
+2. **Why is writing "working code" not enough for software systems at this scale?**
+Because the system must be maintainable, scalable, secure, and should perform across diverse environments, code must be clean, well-documented, and collaboratively developed to allow team scaling and long-term evolution.
+
+3. **What did you learn about teamwork from this exercise?**
+Clear role division, regular sync-ups, and using GitHub for collaboration made our workflow efficient. Discussing different perspectives helped us understand the app more.
+

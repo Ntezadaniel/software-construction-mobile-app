@@ -5,10 +5,10 @@
 **Primary Users:** Commuters, travelers, logistics drivers, tourists, and businesses.
 
 ### 2. Core Features
-**Real-time turn-by-turn navigation** (driving, walking, cycling, public transit)
-**Interactive map with search and place details**
-**Live traffic conditions and incident reports**
-**Offline map downloads**
-**Saved places, lists, and location sharing**
-**Street View and satellite imagery**
-**Integration with real-time transit, biking, and ride-sharing services**
+1. **Real-time turn-by-turn navigation** (driving, walking, cycling, public transit)
+2. **Interactive map with search and place details**
+3. **Live traffic conditions and incident reports**
+4. **Offline map downloads**
+5. **Saved places, lists, and location sharing**
+6. **Street View and satellite imagery**
+

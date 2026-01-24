@@ -56,7 +56,7 @@ Clear role division, regular sync-ups, and using GitHub for collaboration made o
 
 | Student Name | Role/Contribution |
 | :--- | :--- |
-| [KIRABO DANIEL NTEZA] | **Coordinator:** Managed schedule and finalized the README structure. |
+| KIRABO DANIEL NTEZA | **Coordinator:** Managed schedule and finalized the README structure. |
 | [Student 2 Name] | **App Analyst:** Identified core features and user demographics. |
 | [Student 3 Name] | **Systems Thinker:** Analyzed the routing algorithms and API connections. |
 | [Student 4 Name] | **Risk Analyst:** Developed the "Low-end optimization" scenario. |

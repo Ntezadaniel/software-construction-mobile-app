@@ -12,3 +12,10 @@
 5. **Saved places, lists, and location sharing**
 6. **Street View and satellite imagery**
 
+### 3. Thinking Behind the Scenes
+**User Interface (UI)**: Map rendering, route overlay, voice guidance panel, buttons for start/stop navigation
+**Business logic**: Routing algorithm (Dijkstra/A*), traffic data fusion, ETA calculation, rerouting logic
+**Network / APIs**: GPS service, map tile server, traffic data stream, geocoding API, places API
+**Data storage**: Cached map tiles, route history, user preferences, offline map packages
+
+

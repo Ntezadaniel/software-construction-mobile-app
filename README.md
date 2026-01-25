@@ -58,5 +58,6 @@ Clear role division, regular sync-ups, and using GitHub for collaboration made o
 | :--- | :--- |
 | KIRABO DANIEL NTEZA | **Coordinator:** Managed schedule and finalized the README structure. |
 | KIRABO ESTHER KEBIRUNGI | **App Analyst:** Identified core features and user graphics. |
-| KAYONGO ALOYSIOUS | **Systems Thinker:** Analyzed the routing algorithms and API connections. | |KAKAIRE FORTUNE SHAWN| **Risk Analyst:** Developed the "Low-end optimization" scenario. |
+| KAYONGO ALOYSIOUS | **Systems Thinker:** Analyzed the routing algorithms and API connections. |
+|KAKAIRE FORTUNE SHAWN| **Risk Analyst:** Developed the "Low-end optimization" scenario. |
 | [Student 5 Name] | **Doc Lead:** Formatted the table and proofread the submission. |

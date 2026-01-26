@@ -60,4 +60,4 @@ Clear role division, regular sync-ups, and using GitHub for collaboration made o
 | NAKIBUUKA ALLEN| **App Analyst:** Identified core features and user graphics. |
 | KAYONGO ALOYSIOUS | **Systems Thinker:** Analyzed the routing algorithms and API connections. |
 |KAKAIRE FORTUNE SHAWN| **Risk Analyst:** Developed the "Low-end optimization" scenario.
-|OWINO ESTHER LYN | **Doc Lead:** Created the table and read the submission. |
+|OWINO ESTHER LYN | **Doc Lead:** Created the table, read and edited the submission. |

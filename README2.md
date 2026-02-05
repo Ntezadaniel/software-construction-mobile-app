@@ -32,6 +32,15 @@ To turn that script into a feature for thousands of smartphone users. To constru
 
 Poor maintainability can cause serious problems in software systems that support critical daily operations, such as hospital management systems. When a system is developed without proper documentation, consistent coding standards, or modular design, future developers may struggle to understand or modify it. As a result, even small updates can introduce bugs that lead to system failures, incorrect data, or downtime. In a hospital environment, these failures can delay treatment, compromise patient safety, and reduce trust in the system, showing how poor maintainability can have severe real-world consequences.
 
+## Version control in team-based software development.
+Version control is critical in team-based software development because it helps manage and coordinate changes to the codebase when multiple developers work together. Here’s why it’s so important:
+1. Collaboration: It allows many developers to work on the same project simultaneously without overwriting each other’s work. Each team member can work on different features or fixes independently.
+2. Change Tracking: Every change made to the code is recorded with details about what was changed, who made the change, and when. This history helps understand the evolution of the project and can be crucial for debugging or auditing.
+3. Conflict Management: When two or more developers modify the same part of the code, version control systems help detect conflicts and provide tools to resolve them safely.
+4. Backup and Recovery: The entire project’s history is stored in the version control system, making it easy to revert to previous versions if a new change introduces bugs or breaks functionality.
+5. Branching and Merging: Teams can create separate branches to develop new features or experiments without affecting the main codebase. Once ready, these changes can be merged back in a controlled way.
+6. Accountability: Knowing who made what changes encourages responsibility and can improve code quality and communication within the team.
+
 ## AI and Learning Code
 
 Artificial Intelligence can assist in understanding unfamiliar code by explaining logic, highlighting errors, and providing examples. However, it should not replace independent thinking. Learners should first try to read and trace code themselves, then use AI as a guide to clarify difficult parts. This approach enhances comprehension, encourages problem-solving, and ensures that coding skills continue to develop rather than relying solely on AI-generated answers.

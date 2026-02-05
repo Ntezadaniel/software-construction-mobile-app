@@ -32,4 +32,6 @@ To turn that script into a feature for thousands of smartphone users. To constru
 
 Poor maintainability can cause serious problems in software systems that support critical daily operations, such as hospital management systems. When a system is developed without proper documentation, consistent coding standards, or modular design, future developers may struggle to understand or modify it. As a result, even small updates can introduce bugs that lead to system failures, incorrect data, or downtime. In a hospital environment, these failures can delay treatment, compromise patient safety, and reduce trust in the system, showing how poor maintainability can have severe real-world consequences.
 
+## AI and Learning Code
 
+Artificial Intelligence can assist in understanding unfamiliar code by explaining logic, highlighting errors, and providing examples. However, it should not replace independent thinking. Learners should first try to read and trace code themselves, then use AI as a guide to clarify difficult parts. This approach enhances comprehension, encourages problem-solving, and ensures that coding skills continue to develop rather than relying solely on AI-generated answers.

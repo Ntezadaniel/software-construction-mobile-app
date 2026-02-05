@@ -4,7 +4,7 @@
 3. Kayongo Aloysious - S24B23/016
 4. Owino Esther Lyn - S24B23/032
 5. Nakibuuka Allen - S24B23/048
-   
+6. Bukenya Jawadhu Ken - S24B23/063 
 **Programming vs. Software Construction**
 
 **Programming**: The act of writing code to solve a specific problem or implement an algorithm. It is primarily concerned with syntax, logic, and making sure a specific function works.
@@ -40,7 +40,11 @@ Version control is critical in team-based software development because it helps 
 4. Backup and Recovery: The entire project’s history is stored in the version control system, making it easy to revert to previous versions if a new change introduces bugs or breaks functionality.
 5. Branching and Merging: Teams can create separate branches to develop new features or experiments without affecting the main codebase. Once ready, these changes can be merged back in a controlled way.
 6. Accountability: Knowing who made what changes encourages responsibility and can improve code quality and communication within the team.
+## How code reviews improve both software quality and developer skills
 
+Code reviews improve software quality by helping to identify bugs, security flaws, and design issues early, before the software is deployed. When other developers examine the code, they can spot logical errors, inefficient algorithms, poor coding practices, or violations of coding standards that the original author may have missed. This process leads to cleaner, more reliable, and more maintainable code, reducing the likelihood of failures and costly fixes later.
+
+At the same time, code reviews enhance developer skills by promoting learning and knowledge sharing within the team. Developers receive constructive feedback on their work, which helps them understand better approaches, improve problem-solving techniques, and adopt best practices. Reviewing other people’s code also exposes developers to new ideas, tools, and coding styles, strengthening their overall programming competence and teamwork skills
 ## AI and Learning Code
 
 Artificial Intelligence can assist in understanding unfamiliar code by explaining logic, highlighting errors, and providing examples. However, it should not replace independent thinking. Learners should first try to read and trace code themselves, then use AI as a guide to clarify difficult parts. This approach enhances comprehension, encourages problem-solving, and ensures that coding skills continue to develop rather than relying solely on AI-generated answers.

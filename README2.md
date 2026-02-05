@@ -7,5 +7,6 @@
    
 **Programming vs. Software Construction**
 
-**Programming**: The act of writing code to solve a specific problem or implement an algorithm. It's the "bricks and mortar."
-**Software Construction:** The holistic process of creating working software. This includes detailed design, coding, unit testing, debugging, and integration. It's the "building of the house."
+**Programming**: The act of writing code to solve a specific problem or implement an algorithm.
+
+**Software Construction:** The holistic process of creating working software. This includes detailed design, coding, unit testing, debugging, and integration.

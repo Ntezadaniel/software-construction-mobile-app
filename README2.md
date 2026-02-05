@@ -4,7 +4,8 @@
 3. Kayongo Aloysious - S24B23/016
 4. Owino Esther Lyn - S24B23/032
 5. Nakibuuka Allen - S24B23/048
-6. Bukenya Jawadhu Ken - S24B23/063 
+6. Bukenya Jawadhu Ken - S24B23/063
+   
 **Programming vs. Software Construction**
 
 **Programming**: The act of writing code to solve a specific problem or implement an algorithm. It is primarily concerned with syntax, logic, and making sure a specific function works.

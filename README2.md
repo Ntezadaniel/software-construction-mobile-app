@@ -7,6 +7,6 @@
    
 **Programming vs. Software Construction**
 
-**Programming**: The act of writing code to solve a specific problem or implement an algorithm.
+**Programming**: The act of writing code to solve a specific problem or implement an algorithm. It is primarily concerned with syntax, logic, and making sure a specific function works.
 
-**Software Construction:** The holistic process of creating working software. This includes detailed design, coding, unit testing, debugging, and integration.
+**Software Construction:** The process of creating working software. This includes detailed design, coding, unit testing, debugging, and integration. It is the process of ensuring that the code is not just functional, but also robust, secure, and ready to exist in a professional environment.

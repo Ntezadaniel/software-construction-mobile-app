@@ -5,6 +5,7 @@
 4. Owino Esther Lyn - S24B23/032
 5. Nakibuuka Allen - S24B23/048
 6. Bukenya Jawadhu Ken - S24B23/063
+7. Amanya Sisulu - M24B23/006
    
 **Programming vs. Software Construction**
 

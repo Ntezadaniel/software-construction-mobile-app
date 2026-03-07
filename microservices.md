@@ -46,6 +46,36 @@ Several common reasons explain why companies revert from microservices to monoli
 3. **Team size limitations** – Small teams may struggle to maintain distributed systems. 
 4. **Unnecessary scalability** – Some systems do not require the massive scalability microservices provide. 
 
+## Other Companies Using Microservices
+
+### 1. Google
+How they use it: Google runs some of the largest distributed systems in the world.
+
+Services like Search, Maps, Gmail, and YouTube all operate as independent systems
+They developed Kubernetes internally (originally called Borg) to manage containers at scale — now the industry standard for microservices orchestration
+Also created gRPC, a high-performance communication protocol widely used between microservices
+
+### 2. Uber
+How they use it: Uber transitioned from a monolith to microservices as they expanded globally.
+
+Separate services for driver matching, pricing (surge), payments, notifications, and trip management
+At peak scale they ran thousands of microservices
+Eventually faced challenges managing too many services and introduced domain-oriented microservices (DOMA) to bring structure back
+
+### 3. Spotify
+How they use it: Spotify embraced microservices early and also pioneered a famous team structure to go with it.
+
+Organized around Squads, Tribes, Chapters, and Guilds — a model many companies copied
+Each squad owns its own microservice end-to-end
+Services cover recommendations, playlist management, search, social features, and streaming
+Built Backstage, an open-source developer portal for managing microservices, now widely adopted in the industry
+
+### 4. PayPal
+How they use it: PayPal migrated from a monolith to microservices to handle growing transaction volumes.
+
+Decomposed their payments platform into independent services
+Improved deployment frequency and reduced time-to-market for new features
+Uses Node.js heavily across their microservices layer
 
 ## 4. Conclusion
 

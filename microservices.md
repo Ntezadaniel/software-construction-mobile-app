@@ -29,7 +29,7 @@ Amazon Prime Video initially used a microservices-based architecture for its Vid
 
 Engineers redesigned the system into a **modular monolith**, reducing infrastructure costs by about **90%** while improving scalability and performance. 
 
-### 2.2 Shopify (Partial Consolidation)
+### 2.2 Shopify 
 Shopify also discussed consolidating parts of its distributed microservices into a **modular monolith**. The change was motivated by operational overhead, cross-service coordination challenges, and debugging complexity in highly distributed systems. 
 
 ### 2.3 Istio Control Plane

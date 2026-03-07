@@ -27,10 +27,10 @@ While microservices are powerful, some organizations have found them too complex
 ### 2.1 Amazon Prime Video
 Amazon Prime Video initially used a microservices-based architecture for its Video Quality Analysis system. However, the system became extremely expensive and complex due to heavy orchestration and data transfer between services.  
 
-Engineers redesigned the system into a **modular monolith**, reducing infrastructure costs by about **90%** while improving scalability and performance. :contentReference[oaicite:6]{index=6}
+Engineers redesigned the system into a **modular monolith**, reducing infrastructure costs by about **90%** while improving scalability and performance. 
 
 ### 2.2 Shopify (Partial Consolidation)
-Shopify also discussed consolidating parts of its distributed microservices into a **modular monolith**. The change was motivated by operational overhead, cross-service coordination challenges, and debugging complexity in highly distributed systems. :contentReference[oaicite:7]{index=7}
+Shopify also discussed consolidating parts of its distributed microservices into a **modular monolith**. The change was motivated by operational overhead, cross-service coordination challenges, and debugging complexity in highly distributed systems. 
 
 ### 2.3 Istio Control Plane
 The Istio project simplified its architecture by merging several microservices back into a monolithic design because managing many services increased development complexity and slowed down productivity. 

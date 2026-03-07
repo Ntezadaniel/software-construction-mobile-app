@@ -2,7 +2,7 @@
 ### Microservices are a software architecture where an application is built as many small, independent services. Each service performs a specific function and communicates with other services through APIs.
 
 while
-### Microservices are a software architecture where an application is built as many small, independent services. Each service performs a specific function and communicates with other services through APIs.
+### A Monolithic architecture is a traditional software design where all components of an application are combined into a single large program.
 
 ## 1. How Netflix Utilizes Microservices
 
